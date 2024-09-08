@@ -96,3 +96,15 @@ There was a tool called *Prototyper* that I picked up about this time and **Harm
 For **Harmonigraph** icons-as-buttons along the left allow you to increase or decrease the amplitude of the pendulums — modify the frequency, phase. It more or less works — though seems to crash the OS when you quit (ha, ha). I didn't play with it exhaustively though.
 
 This might be a fun one to rewrite for the web using Javascript, an HTML5 Canvas... I would prefer though to have a UI with stacked pendulums where you could pull them back to set the amplitude, slide a weight up and down to change the period....
+
+### FishTank:
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/c590a8600a94ddedf2ca357f3784beeab580d784/Images/fishtank.png">
+</p>
+
+Like a screen-saver, **FishTank** was only ever meant to be a virtual fish tank that you kind of watched. Desiging your own tank — stocking it with fish you select, arranging the various plants and decorations would have made it somewhat amusing. Tamagotchi-like I might have required you to periodically feed the fish lest they die...
+
+It was shelved long before any of those features saw the light of day. I think the payoff-vs-effort indicator was trending low in my mind for this one so on to the next idea.
+
+> Original file dates suggest I started it in December 1989, bailed by March 1990.
