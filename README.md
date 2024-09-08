@@ -1,5 +1,5 @@
-# SoftDorothy-UnfinishedTales-Vol1
-First part of a collection of **Soft Dorothy Software** scraps and game experiments from the late 80's and early 90's.
+# Soft Dorothy Software: Unfinished Tales (Vol 1)
+The first part of a collection of **Soft Dorothy Software** scraps and game experiments from the late 80's and early 90's.
 
 <p align="center">
 <img width="329" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/2f3983fe631834a9016de4840c488c9e1630bc3e/Images/SoftDorothyLogo.png">
