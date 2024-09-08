@@ -14,3 +14,25 @@ To that end I often "sketched" out a game fairly quickly sometimes to find fairl
 I suspect my personality is to reject "lost ideas" quickly where someone else might have spent more time trying to nurture them. Perhaps then there were some diamonds in the rough.
 
 Regardless, if for some of the pixel art alone, it may have been worth it recovering these prototype games and experiments.
+
+### Bundle Identifiers
+
+The old Macintosh OS (before OS X) used four-character codes to identify each application. These were called bundle identifiers. Beginning with **Glider** I established a pattern for my own game's bundle identifiers. The first two characters were lower-case: `sd` while the last two were digits beginning, with **Glider**, `01`.
+
+I found on one of my recovered hard drives a document listing the titles and bundle identifiers I had used. Here is the beginning of the list:
+
+```
+sd01 = Glider        v.1.0/2.0/2.02ß/3.0          +++
+sd02 = La Luna       not distributed
+sd03 = Reaction      not distributed
+sd04 = BlackBox      not distributed
+sd05 = Paria         incomplete <slow, complex>
+sdHM = Harmonigraph  not distributed
+sd08 = FishTank      not distributed-K
+sd09 = Glypha        v.1.0/2.0                    +++
+sd10 = Mobocracy     incomplete <time-consuming>
+```
+
+It begins of course with `sd01` for **Glider**. If you had a Macintosh back in the 1990's you might recognize `sd09`, **Glypha**. The bundle identifiers listed in between though belonged to programs that never left my hard drive.
+
+To the degree I am able to, this repo represents those "lost" experiments. We'll skip Glider & Glypha of course — they're already in a repo called **SoftDorothy-SharewareProjects**.
