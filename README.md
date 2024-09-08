@@ -5,9 +5,13 @@ The first part of a collection of **Soft Dorothy Software** scraps and game expe
 <img width="758" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/ea029bff1b3a18a76b2187c4dac275e4f3823a34/Images/Ridaava-walk.png">
 </p>
 
-### Young & Prolific
+### Sleepless
 
 Around 1988 when I was still in college I wrote my first shareware game on the Macintosh computer called **Glider**. For a number of years that followed I spent a good deal of my conscious hours (and perhaps unconscious hours as well) progamming little games for my amusement. I think the little Macintosh Plus with crisp black and white pixels, curious mouse interface, became a new kind of canvas for me. I don't think I was *naturally* a programmer, programming was a means to an end — an end I suppose that consisted of little games that I approached as a kind of little art.
+
+<p align="center">
+<img width="320" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/3c0c2c6514f32224374624b40ff1abba4480e3cb/Images/earlyprogrammer.jpeg">
+</p>
 
 To be clear the games had to be fun as well. If you allow at least that computer games have an art *aspect* we'll agree that games are not the kind of art you hang on the wall.
 
