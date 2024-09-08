@@ -28,20 +28,29 @@ The old Macintosh OS (before OS X) used four-character codes to identify each ap
 I found on one of my recovered hard drives a document listing the titles and bundle identifiers I had used. Here is the beginning of the list:
 
 ```
-sd01 = Glider        v.1.0/2.0/2.02ß/3.0          +++
-sd02 = La Luna       not distributed
-sd03 = Reaction      not distributed
-sd04 = BlackBox      not distributed
-sd05 = Paria         incomplete <slow, complex>
-sdHM = Harmonigraph  not distributed
-sd08 = FishTank      not distributed
-sd09 = Glypha        v.1.0/2.0                    +++
-sd10 = Mobocracy     incomplete <time-consuming>
+sd01 = Glider          v.1.0/2.0/2.02ß/3.0          +++
+sd02 = La Luna         not distributed
+sd03 = Reaction        not distributed
+sd04 = BlackBox        not distributed
+sd05 = Paria           incomplete <slow, complex>
+sdHM = Harmonigraph    not distributed
+sd08 = FishTank        not distributed
+sd09 = Glypha          v.1.0/2.0                    +++
+sd10 = Mobocracy       incomplete <time-consuming>
+sd11 = Dione           incomplete <no fun>-K
+sd12 = Light Cycles    incomplete <buggy>-K
+sd13 = MiniGolf Edit   incomplete
+sd14 = MiniGolf Cr     incomplete <buggy>
+sd15 = K-10            incomplete <sound prob.>
+sd16 = War             not distributed
+sd17 = Sled Run        incomplete <slow, no fun>
+sd18 = Stella Obscura  v.1.0                        +++
+:
 ```
 
 It begins of course with `sd01` for **Glider**. If you had a Macintosh back in the 1990's you might recognize `sd09`, **Glypha**. The bundle identifiers listed in between though belonged to programs that never left my hard drive.
 
-To the degree I am able to, this repo represents those "lost" experiments. We'll skip **Glider** & **Glypha** from the list of course — they're already in a repo called <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">**SoftDorothy-SharewareProjects**</a>.
+To the degree I am able to, this repo represents those "lost" experiments. We'll skip **Glider**, **Glypha** and **Stella Obscura** from the list — since they shipped they're already in a repo called <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">**SoftDorothy-SharewareProjects**</a>.
 
 ### La Luna, Reaction, BlackBox:
 
@@ -73,7 +82,7 @@ Top center is the star map and buttons to the left of it toggle the map display 
 
 Below the map/navigation view is your cockpit view out the front of the spacecraft.
 
-Playing with it a bit I see that the `+TH` button (and ones near it) allow you to adjust your ship velocity. In fact eventually you will see a planet approach in the cockpit view.
+Playing with it a bit I see that the `+TH` button (and ones near it) allow you to adjust your ship velocity. In fact if you throttle up ,eventually you will see a planet approach in the cockpit view.
 
 > Before posting a lot of these old sketches, I tried to add a little code to throttle the game somewhat since on modern emulators running "all out" the demos were often unplayable. In the case of **Paria** the planet flew by so fast I had blinked and missed it.
 
