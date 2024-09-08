@@ -119,6 +119,10 @@ Side-scroller, post apolocalyptic ... **Mobocracy** was a very 90's game. Origin
 
 If you wanted to kick the tires, you can only "play" it by selecting `Practice` from the `File` menu. Controls: try `A`, `D`, the space bar, the arrow keys. Artwork has our hero with her sword drawn, parrying, thrusting but if those modes are implemented in the code I didn't take the time to discover. There is additional artwork for a kind of "bounty wall", a weapons shop — none of which were ever implemented.
 
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/1729ccaaa9f2052e13f27abb42abd1c464bef695/Images/ridaava_with_sword.png">
+</p>
+
 The lower portion of the game hints at a weapon selection, map, an inventory of bullets, gold, etc. (The player's fatigue is expended by jumping, etc., replenishes quickly though.)
 
 This was clearly a game that, whether the payoff was high or not, was clearly going to be a huge effort. Although Prince of Persia (Metal Slug, etc.) would show it was possible, I think I also felt constrained by the almost 1-diminsional aspect of a side-scroller. Maybe I would have felt more confortable making it a 2-D *Rogue-like* instead. In any event, there were other fields still to sow.
