@@ -2,7 +2,7 @@
 The first part of a collection of **Soft Dorothy Software** scraps and game experiments from the late 80's and early 90's.
 
 <p align="center">
-<img width="758" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/a029650482fbce2bae865d300b06d17700875e38/Images/Ridaava-walk.png">
+<img width="758" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/ea029bff1b3a18a76b2187c4dac275e4f3823a34/Images/Ridaava-walk.png">
 </p>
 
 I wrote a shareware game for the Macintosh computer around 1988 called **Glider**. For a number of years that followed I spent a good deal of my conscious hours (and perhaps unconscious hours as well) progamming little games for my amusement. I think the little Macintosh Plus with crisp black and white pixels, curious mouse interface, became a new kind of canvas for me. I don't think I was *naturally* a programmer, programming was a means to an end — an end I suppose that consisted of little games that I approached as a kind of art.
