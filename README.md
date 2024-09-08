@@ -54,7 +54,9 @@ To the degree I am able to, this repo represents those "lost" experiments. We'll
 
 ### La Luna, Reaction, BlackBox:
 
-These programs are, at this time, completely lost. I had copied over the binaries from one file system to another, over a decade ago, but alas all the resource forks were lost and so to then are the applications. The dates on the binaries (if correct) suggest that I toyed around with the apps in September, 1989.
+These programs are, at this time, completely lost. I had copied over the binaries from one file system to another, over a decade ago, but alas all the resource forks were lost and so to then are the applications.
+
+> The dates on the binaries (if correct) suggest that I toyed around with the apps in September, 1989.
 
 It's possible (but I don't remember exactly) that **La Luna** was my first stab at a game like <a href="https://en.wikipedia.org/wiki/Elite_(video_game)">Elite</a>. Elite hasd a huge impression on me with its seeming depth and its ability to completely draw me into its world. More than once I would take a stab at doing something like Elite in scale but then shelve it when I realized the time that would be consumed to do it any justice.
 
@@ -90,7 +92,7 @@ Clicking the mouse in the cockpit view appears to fire a laser but I am pretty s
 
 Even with the barest degree of functionality in the sketch it's clear that many months, perhaps a year or more, would have been required to implement a full and proper game. Text along the bottom hints at an "intelligent" computer assistant that needed flushing out, full 3D navigation with enemy ships, possible trading, would have been required. Abort (`ABT`), and various radio (`RDIO`) controls (and perhaps `DES` was self-destruct) had to be fleshed out as well.
 
-It looks like this one was begun around December, 1989 — more or less abandoned January, 1990.
+> It looks like this one was begun around December, 1989 — more or less abandoned January, 1990.
 
 Could it ultimately have been "Elite-levels" of fun? Who knows. I think though I saw what I had at that point and decided to move along to the next idea. Even a stub of a game like **Paria** I thought I could always return to at some later date.
 
