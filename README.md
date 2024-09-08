@@ -90,6 +90,8 @@ Clicking the mouse in the cockpit view appears to fire a laser but I am pretty s
 
 Even with the barest degree of functionality in the sketch it's clear that many months, perhaps a year or more, would have been required to implement a full and proper game. Text along the bottom hints at an "intelligent" computer assistant that needed flushing out, full 3D navigation with enemy ships, possible trading, would have been required. Abort (`ABT`), and various radio (`RDIO`) controls (and perhaps `DES` was self-destruct) had to be fleshed out as well.
 
+It looks like this one was begun around December, 1989 — more or less abandoned January, 1990.
+
 Could it ultimately have been "Elite-levels" of fun? Who knows. I think though I saw what I had at that point and decided to move along to the next idea. Even a stub of a game like **Paria** I thought I could always return to at some later date.
 
 ### Harmonigraph:
