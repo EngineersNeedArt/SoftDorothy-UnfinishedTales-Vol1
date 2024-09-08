@@ -5,7 +5,7 @@ The first part of a collection of **Soft Dorothy Software** scraps and game expe
 <img width="758" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/ea029bff1b3a18a76b2187c4dac275e4f3823a34/Images/Ridaava-walk.png">
 </p>
 
-### Sleepless
+### Sleepless Nights
 
 Around 1988 when I was still in college I wrote my first shareware game on the Macintosh computer called **Glider**. For a number of years that followed I spent a good deal of my conscious hours (and perhaps unconscious hours as well) progamming little games for my amusement. I think the little Macintosh Plus with crisp black and white pixels, curious mouse interface, became a new kind of canvas for me. I don't think I was *naturally* a programmer, programming was a means to an end — an end I suppose that consisted of little games that I approached as a kind of little art.
 
