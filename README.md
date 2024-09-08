@@ -5,15 +5,17 @@ The first part of a collection of **Soft Dorothy Software** scraps and game expe
 <img width="758" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/ea029bff1b3a18a76b2187c4dac275e4f3823a34/Images/Ridaava-walk.png">
 </p>
 
-I wrote a shareware game for the Macintosh computer around 1988 called **Glider**. For a number of years that followed I spent a good deal of my conscious hours (and perhaps unconscious hours as well) progamming little games for my amusement. I think the little Macintosh Plus with crisp black and white pixels, curious mouse interface, became a new kind of canvas for me. I don't think I was *naturally* a programmer, programming was a means to an end — an end I suppose that consisted of little games that I approached as a kind of art.
+### Young & Prolific
 
-To be clear the games had to be fun as well, If you allow at least that computer games have an art *aspect* it's of course not the kind of art you hang on the wall.
+Around 1988 when I was still in college I wrote my first shareware game on the Macintosh computer called **Glider**. For a number of years that followed I spent a good deal of my conscious hours (and perhaps unconscious hours as well) progamming little games for my amusement. I think the little Macintosh Plus with crisp black and white pixels, curious mouse interface, became a new kind of canvas for me. I don't think I was *naturally* a programmer, programming was a means to an end — an end I suppose that consisted of little games that I approached as a kind of little art.
 
-To that end I often "sketched" out a game fairly quickly sometimes to find fairly early on that it was not to be. Perhaps the game seemed like it had potential but it was going to consume a year of my life to write it. Sometimes though the game just wasn't grabbing me — was simply missing something compelling to make it enjoyable.
+To be clear the games had to be fun as well. If you allow at least that computer games have an art *aspect* we'll agree that games are not the kind of art you hang on the wall.
 
-I suspect my personality is to reject "lost ideas" quickly where someone else might have spent more time trying to nurture them. Perhaps then there were some diamonds in the rough.
+To that end I often "sketched" out a game, fairly quickly sometimes, to find early on that it was not to be. Perhaps the game seemed like it had potential but it was going to consume a year of my life to write it. Sometimes though the game just wasn't grabbing me — was simply missing something compelling to make it enjoyable.
 
-Regardless, if for some of the pixel art alone, it may have been worth it recovering these prototype games and experiments.
+I suspect my personality is to reject "lost ideas" quickly where someone else might have spent more time trying to nurture them. Perhaps there were in fact some diamonds in the rough. But other ideas were calling and so off I went to the next thumbnail sketch.
+
+Regardless, if only for some of the pixel art, it may have been worth it to me recovering these prototype games and experiments.
 
 ### Bundle Identifiers
 
@@ -28,11 +30,25 @@ sd03 = Reaction      not distributed
 sd04 = BlackBox      not distributed
 sd05 = Paria         incomplete <slow, complex>
 sdHM = Harmonigraph  not distributed
-sd08 = FishTank      not distributed-K
+sd08 = FishTank      not distributed
 sd09 = Glypha        v.1.0/2.0                    +++
 sd10 = Mobocracy     incomplete <time-consuming>
 ```
 
 It begins of course with `sd01` for **Glider**. If you had a Macintosh back in the 1990's you might recognize `sd09`, **Glypha**. The bundle identifiers listed in between though belonged to programs that never left my hard drive.
 
-To the degree I am able to, this repo represents those "lost" experiments. We'll skip Glider & Glypha of course — they're already in a repo called **SoftDorothy-SharewareProjects**.
+To the degree I am able to, this repo represents those "lost" experiments. We'll skip **Glider** & **Glypha** from the list of course — they're already in a repo called <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">**SoftDorothy-SharewareProjects**</a>.
+
+### La Luna, Reaction, BlackBox:
+
+These programs are, at this time, completely lost. I had copied over the binaries from one file system to another, over a decade ago, but alas all the resource forks were lost and so to then are the applications.
+
+It's possible (but I don't remember exactly) that **La Luna** was my first stab at a game like <a href="https://en.wikipedia.org/wiki/Elite_(video_game)">Elite</a>. Elite hasd a huge impression on me with its seeming depth and its ability to completely draw me into its world. More than once I would take a stab at doing something like Elite in scale but then shelve it when I realized the time that would be consumed to do it any justice.
+
+**Reaction** was, to my recollection, more of an educational demo of a nuclear chain reaction. The application showed "neutrons" as a regular grid of circles on the screen. A control allowed the user to change the density of the neutrons (the spacing between neutrons in the grid). With the click of a button the reaction would begin with one neutron disappearing — decomposing into a few energetic neutrons that scattered at random angles from the original neutron's location. If any of the neutrons struck another neutron in the grid before they left it would cause that neutron to also decompose into a few more.
+
+It's possible I was inspired to write the app after reading one of the *Computer Recreations* articles in *Scientific American* magazine (<a href="https://ia800905.us.archive.org/34/items/pdfy-URIEj2bFFdno0y_f/scientificamerican0285-18.pdf">example article</a>).
+
+I am a bit at a loss to recall what **BlackBox** might have been. My best guess is that it may have been similar to a puzzle game where you deduce the location of a number of hidden mirrors in a "black box" (hidden on a grid obscured by a black rectangle) by placing lasers around the perimeter and note where the reflected (?) laser light exits the grid.
+
+### Paria:
