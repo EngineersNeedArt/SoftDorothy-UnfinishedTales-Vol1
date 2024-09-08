@@ -108,3 +108,17 @@ Like a screen-saver, **FishTank** was only ever meant to be a virtual fish tank 
 It was shelved long before any of those features saw the light of day. I think the payoff-vs-effort indicator was trending low in my mind for this one so on to the next idea.
 
 > Original file dates suggest I started it in December 1989, bailed by March 1990.
+
+### Mobocracy:
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/1f7aa651cca6681534645b2c269908291a77d5d6/Images/mobocracy.png">
+</p>
+
+Side-scroller, post apolocalyptic ... **Mobocracy** was a very 90's game. Original file dates suggest February and March of 1990 were consumed with knocking this half-baked sketch out.
+
+If you wanted to kick the tires, you can only "play" it by selecting `Practice` from the `File` menu. Controls: try `A`, `D`, the space bar, the arrow keys. Artwork has our hero with her sword drawn, parrying, thrusting but if those modes are implemented in the code I didn't take the time to discover. There is additional artwork for a kind of "bounty wall", a weapons shop — none of which were ever implemented.
+
+The lower portion of the game hints at a weapon selection, map, an inventory of bullets, gold, etc. (The player's fatigue is expended by jumping, etc., replenishes quickly though.)
+
+This was clearly a game that, whether the payoff was high or not, was clearly going to be a huge effort. Although Prince of Persia (Metal Slug, etc.) would show it was possible, I think I also felt constrained by the almost 1-diminsional aspect of a side-scroller. Maybe I would have felt more confortable making it a 2-D *Rogue-like* instead. In any event, there were other fields still to sow.
