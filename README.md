@@ -82,3 +82,17 @@ Clicking the mouse in the cockpit view appears to fire a laser but I am pretty s
 Even with the barest degree of functionality in the sketch it's clear that many months, perhaps a year or more, would have been required to implement a full and proper game. Text along the bottom hints at an "intelligent" computer assistant that needed flushing out, full 3D navigation with enemy ships, possible trading, would have been required. Abort (`ABT`), and various radio (`RDIO`) controls (and perhaps `DES` was self-destruct) had to be fleshed out as well.
 
 Could it ultimately have been "Elite-levels" of fun? Who knows. I think though I saw what I had at that point and decided to move along to the next idea. Even a stub of a game like **Paria** I thought I could always return to at some later date.
+
+### Harmonigraph:
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/3b4e9592b1ba70d65cdc99b8beaba51c27db5611/Images/harmonigraph.png">
+</p>
+
+**Harmonigraph** was a little experiment of the educational toy variety like **Reaction** that I described earlier. A pendulum (or multiple) controls the X-axis while another pendulum(s) controls Y-axis. `Start` kicks off the calulating, rendering.
+
+There was a tool called *Prototyper* that I picked up about this time and **Harmonigraph** was I believe the first application I created using it. *Prototyper* made it easy to create windows with controls, text and would then generate the C or Pascal code to give you a shell with which you could then go in and add the functionality.
+
+For **Harmonigraph** icons-as-buttons along the left allow you to increase or decrease the amplitude of the pendulums — modify the frequency, phase. It more or less works — though seems to crash the OS when you quit (ha, ha). I didn't play with it exhaustively though.
+
+This might be a fun one to rewrite for the web using Javascript, an HTML5 Canvas... I would prefer though to have a UI with stacked pendulums where you could pull them back to set the amplitude, slide a weight up and down to change the period....
