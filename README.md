@@ -56,3 +56,29 @@ It's possible I was inspired to write the app after reading one of the *Computer
 I am a bit at a loss to recall what **BlackBox** might have been. My best guess is that it may have been similar to a puzzle game where you deduce the location of a number of hidden mirrors in a "black box" (hidden on a grid obscured by a black rectangle) by placing lasers around the perimeter and note where the reflected (?) laser light exits the grid.
 
 ### Paria:
+
+**Paria** was very much an *Elite* inspired sketch of a game. If you run the game in an emulator, some small amount of activity comes to life with regard to the controls and window. You have to select `New Game` from the `File` menu first.
+
+> Don't be fooled by all of the menu items in the games that follow — many are in fact merely stubs and do nothing when selected. That's just the nature of quick prototyping.
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/957b1a683a521a08dc317d4a1776aa9c3eed01af/Images/paria.png">
+</p>
+
+You're piloting a spaceship (if that's not obvious) — and in this case the ship was made intentionally complicated to add an element of realism to the game and to allow for perhaps some clever (or desperate) energy management strategies to liven up the game.
+
+The left side of the console is concerned with power creation and power reserves (primary, secondary). Weapons (top right, `LAS`, incomplete), protective energy shields (bottom right) would consume that energy during a fire fight.
+
+Top center is the star map and buttons to the left of it toggle the map display to show other information to aid in navigation.
+
+Below the map/navigation view is your cockpit view out the front of the spacecraft.
+
+Playing with it a bit I see that the `+TH` button (and ones near it) allow you to adjust your ship velocity. In fact eventually you will see a planet approach in the cockpit view.
+
+> Before posting a lot of these old sketches, I tried to add a little code to throttle the game somewhat since on modern emulators running "all out" the demos were often unplayable. In the case of **Paria** the planet flew by so fast I had blinked and missed it.
+
+Clicking the mouse in the cockpit view appears to fire a laser but I am pretty sure it's just stubbed in for show — nothing results from it but a brief dip of your ship's energy reserves.
+
+Even with the barest degree of functionality in the sketch it's clear that many months, perhaps a year or more, would have been required to implement a full and proper game. Text along the bottom hints at an "intelligent" computer assistant that needed flushing out, full 3D navigation with enemy ships, possible trading, would have been required. Abort (`ABT`), and various radio (`RDIO`) controls (and perhaps `DES` was self-destruct) had to be fleshed out as well.
+
+Could it ultimately have been "Elite-levels" of fun? Who knows. I think though I saw what I had at that point and decided to move along to the next idea. Even a stub of a game like **Paria** I thought I could always return to at some later date.
