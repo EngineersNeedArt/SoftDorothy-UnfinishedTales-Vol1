@@ -190,4 +190,24 @@ And so I bothered not for **MiniGolf**. As I mentioned, I would revist it later,
 
 ### K-10:
 
-TBD.
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/25ac5a339811b08cc9ca9e6b34e4c4ff98a6b316/Images/K-10.png">
+</p>
+
+I was in college at the University of Kansas when I began **K-10**. It was named for Kansas highway 10 — the more or less straight and flat stretch of asphalt between Lawrence, Kansas and Kansas City. For a driving game that wanted to keep things simple K-10 was a cheap excuse to present only a straight road.
+
+<a href="https://en.wikipedia.org/wiki/Spy_Hunter">*Spy Hunter*</a>, the old arcade game, was an abvious inspiration — it too being a top-down driving game where the cars have weapons. Perhaps a little more obscure, I was inspired too by the Jackson Games pen-and-paper RPG <a href="https://en.wikipedia.org/wiki/Car_Wars">*Car Wars*</a>.
+
+You can see the *Car Wars* inspiration on the right portion of the game where armor (front, rear, driver and passenger side) is indicated. Fore and aft weapons... Also, like "rolling up a character", the game was to rely heavily on your designing your car, fitting it with the various weapons and armor, engine upgrades — to the degree your car budget allowed.
+
+I was focusing a good deal at this early stage on getting the shifting (the cars were to be all manual) correct. You have to shift into 1st gear to get rolling, watch the RPM gauge, shift to 2nd when you start to red-line. I was trying to get the power curves to feel right so that putting the car in 4th at a stop would be lugging the engine — downshifting to 1st at highway speed would possibly blow the engine.
+
+As with a lot of these "sketches", you can look to some of the placeholder graphical elements or inoperable menu items to get an idea of where I hoped to eventually go with the game — the weapons and armor stats being the obvious tell in this game.
+
+I have a vague recollection that the physics involved started to overwhelm me. I was stuck trying to decide if you model the drivetrain physics from the asphalt to the tire (via frictional component) through the transmission and its gearing to the cylinders trying to turn a flywheel? Or do you go the reverse direction and start with the torque from the cylinders firing, work through the transmission, etc? It seemed like a problem where the math had to go both directions at the same time.
+
+Regardless, I seemed to have shelved the game sometime around April, 1990.
+
+If you decide to try the game out, I have been successful 1) `Car` —> `Open Car...` and select a car from the Cars folder then 2) select `File` —> `Test Run`. The keys `1`, `2`, `3`, and `4` shift gears (you need to shift to 1st gear right away), the mouse button is the accelerator, moving the mouse left and right is how you steer.
+
+You will probably see an enemy car or two — and they will fire upon you. If I had implemented player weapons I was unable to discover how to fire them. Also, collision detection is very basic.
