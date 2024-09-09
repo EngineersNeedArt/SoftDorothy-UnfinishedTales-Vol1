@@ -58,7 +58,7 @@ These programs are, at this time, completely lost. I had copied over the binarie
 
 > The dates on the binaries (if correct) suggest that I toyed around with the apps in September, 1989.
 
-It's possible (but I don't remember exactly) that **La Luna** was my first stab at a game like <a href="https://en.wikipedia.org/wiki/Elite_(video_game)">Elite</a>. Elite hasd a huge impression on me with its seeming depth and its ability to completely draw me into its world. More than once I would take a stab at doing something like Elite in scale but then shelve it when I realized the time that would be consumed to do it any justice.
+It's possible (but I don't remember exactly) that **La Luna** was my first stab at a game like <a href="https://en.wikipedia.org/wiki/Elite_(video_game)">Elite</a>. Elite had a huge impression on me with its seeming depth and its ability to completely draw me into its world. More than once I would take a stab at doing something like Elite in scale but then shelve it when I realized the time that would be consumed to do it any justice.
 
 **Reaction** was, to my recollection, more of an educational demo of a nuclear chain reaction. The application showed "neutrons" as a regular grid of circles on the screen. A control allowed the user to change the density of the neutrons (the spacing between neutrons in the grid). With the click of a button the reaction would begin with one neutron disappearing — decomposing into a few energetic neutrons that scattered at random angles from the original neutron's location. If any of the neutrons struck another neutron in the grid before they left it would cause that neutron to also decompose into a few more.
 
