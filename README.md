@@ -180,7 +180,11 @@ I saw that they compiled and ran (added some throttling to **MiniGolf Player**) 
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/9f1c1044f364344eccf0cb5acb9fc14c2356dd05/Images/MiniGolfPlayer.png">
 </p>
 
-Oh, the collision detection is completely broken — balls don't often ricochet correctly off the walls, sometimes end up outside the course.
+Oh, the collision detection is completely broken — balls don't often ricochet correctly off the walls, sometimes end up outside the course. You know, these little things are not terribly important when you're just protoyping a game. I mean these are solveable issues. But if for other reasons the game seems destined for the byte-heap, why bother?
+
+And so I bothered not for **MiniGolf**. As I mentioned, I would revist it later, in color. I am unclear as to why I did abandon this version and move on to experiment with new games. 
+
+> When I get to the color version I can explain why that one was offloaded though.
 
 ### K-10:
 
