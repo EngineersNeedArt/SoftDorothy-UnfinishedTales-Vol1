@@ -164,3 +164,24 @@ One of the earliest games I had written was a "TRON" light cycle game on the Com
 
 **Light Cycles**, should you try to play it in its rough form, is un-throttled and so plays best in an emulator that you can run at 1990 speeds. I must have decided early on to bail on it however as much of the sprite artwork is unimplemented. That's kind of too bad because I would love to see the player "rez" in, see the *Recognizer* enter the game grid....
 
+### MiniGolf (Editor and Player):
+
+This was the first time I thought to tackle miniature golf as a computer game. Later, when I began programming in color, I would revisit miniature golf in an unfinished app called **LiliPutz**.
+
+This early B&W attempt consisted of two separate apps: **MiniGolf Editor** for creating the courses and **MiniGolf Player** for, of course, playing them.
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/9f1c1044f364344eccf0cb5acb9fc14c2356dd05/Images/MiniGoldEditor.png">
+</p>
+
+I saw that they compiled and ran (added some throttling to **MiniGolf Player**) but otherwise relied on the course (`Course.2`) that was my little test course from March of 1990. `Try It` doesn't work in **MiniGolf Editor**. Instead you'll have to `Open Course...` and `Begin Game` in **MiniGolf Player**.
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/9f1c1044f364344eccf0cb5acb9fc14c2356dd05/Images/MiniGolfPlayer.png">
+</p>
+
+Oh, the collision detection is completely broken — balls don't often ricochet correctly off the walls, sometimes end up outside the course.
+
+### K-10:
+
+TBD.
