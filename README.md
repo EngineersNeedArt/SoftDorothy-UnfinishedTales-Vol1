@@ -196,7 +196,7 @@ And so I bothered not for **MiniGolf**. As I mentioned, I would revist it later,
 
 I was in college at the University of Kansas when I began **K-10**. It was named for Kansas highway 10 — the more or less straight and flat stretch of asphalt between Lawrence, Kansas and Kansas City. For a driving game that wanted to keep things simple K-10 was a cheap excuse to present only a straight road.
 
-<a href="https://en.wikipedia.org/wiki/Spy_Hunter">*Spy Hunter*</a>, the old arcade game, was an abvious inspiration — it too being a top-down driving game where the cars have weapons. Perhaps a little more obscure, I was inspired too by the Jackson Games pen-and-paper RPG <a href="https://en.wikipedia.org/wiki/Car_Wars">*Car Wars*</a>.
+<a href="https://en.wikipedia.org/wiki/Spy_Hunter">*Spy Hunter*</a>, the old arcade game, was an abvious inspiration — it too being a top-down driving game where the cars have weapons. Perhaps a little more obscure, I was inspired too by the Steve Jackson Games pen-and-paper RPG <a href="https://en.wikipedia.org/wiki/Car_Wars">*Car Wars*</a>.
 
 You can see the *Car Wars* inspiration on the right portion of the game where armor (front, rear, driver and passenger side) is indicated. Fore and aft weapons... Also, like "rolling up a character", the game was to rely heavily on your designing your car, fitting it with the various weapons and armor, engine upgrades — to the degree your car budget allowed.
 
@@ -210,7 +210,9 @@ As with a lot of these "sketches", you can look to some of the placeholder graph
 
 I have a vague recollection that the physics involved started to overwhelm me. I was stuck trying to decide if you model the drivetrain physics from the asphalt to the tire (via frictional component) through the transmission and its gearing to the cylinders trying to turn a flywheel? Or do you go the reverse direction and start with the torque from the cylinders firing, work through the transmission, etc? It seemed like a problem where the math had to go both directions at the same time.
 
-Regardless, I seemed to have shelved the game sometime around April, 1990.
+Regardless, I seemed to have shelved the game sometime around April, 1990. Is it worth revisiting? Maybe you think 
+<a href="https://en.wikipedia.org/wiki/Carmageddon">Carmageddon</a> finally (and thoroughly) scratched that 
+cars-destroying-other-cars itch but I still think there is room for a top-down "Death Race 2000".
 
 If you decide to try the game out, I have been successful 1) `Car` —> `Open Car...` and select a car from the Cars folder then 2) select `File` —> `Test Run`. The keys `1`, `2`, `3`, and `4` shift gears (you need to shift to 1st gear right away), the mouse button is the accelerator, moving the mouse left and right is how you steer.
 
