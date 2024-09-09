@@ -168,7 +168,7 @@ One of the earliest games I had written was a "TRON" light cycle game on the Com
 
 This was the first time I thought to tackle miniature golf as a computer game. Like the previous **Light Cycles** I went with a 2.1-dimensional look. Which is to say, it's more or less a top-down game but I added just a bit of an orthographic shear to it to suggest a hint of 3-dimensionality.
 
->  Later, when I began programming in color, I would revisit miniature golf in an unfinished app called **LiliPutz**.
+> Later, when I began programming in color, I would revisit miniature golf in an unfinished game called **LiliPutz**.
 
 This early B&W attempt consisted of two separate apps: **MiniGolf Editor** for creating the courses and **MiniGolf Player** for, of course, playing them.
 
