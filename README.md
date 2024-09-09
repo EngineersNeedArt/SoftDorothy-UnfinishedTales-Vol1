@@ -139,3 +139,16 @@ If you wanted to kick the tires, you can only "play" it by selecting `Practice` 
 The lower portion of the game hints at a weapon selection, map, an inventory of bullets, gold, etc. (The player's fatigue is expended by jumping, etc., replenishes quickly though.)
 
 This was clearly a game that, whether the payoff was high or not, was clearly going to be a huge effort. Although Prince of Persia (Metal Slug, etc.) would show it was possible, I think I also felt constrained by the almost 1-diminsional aspect of a side-scroller. Maybe I would have felt more confortable making it a 2-D *Rogue-like* instead. In any event, there were other fields still to sow.
+
+### Dione:
+
+<p align="center">
+<img width="404" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/e374d48e51853ed81d4fd3df251d770e74a7e4e9/Images/Dione.png">
+</p>
+
+**Dione** was not one of those sown fields that would bear fruit. More or less started out as an *Asteroids*-like. Actually, if you really know your obscure 80's arcade games, it took more inspiration from *Space Duel* — a game where two players find their *Asteroids*-like spaceships tethered together creating all manner of fascinating dynamics when each craft can independently rotate, thrust. Watching the linked ships tumble across the screen like a baton in freefall was, I think, what I was initially going for.
+
+I couldn't have failed any harder. **Dione** (the name came from Greek mythology) should have been called "Ball and Chain" as that is how the game play feels. If you really want to try it: left and right arrow keys, `Shift` and space bar.
+
+Is there a diamond in the rough here? Why, no, not at all. Still, *Space Duel* is still, in my opinion, ripe for really kicking up a notch into the bullet-hell genre. Now *that* would be something.
+
