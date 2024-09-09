@@ -166,9 +166,9 @@ One of the earliest games I had written was a "TRON" light cycle game on the Com
 
 ### MiniGolf (Editor and Player):
 
-This was the first time I thought to tackle miniature golf as a computer game. Later, when I began programming in color, I would revisit miniature golf in an unfinished app called **LiliPutz**.
+This was the first time I thought to tackle miniature golf as a computer game. Later, when I began programming in color, I would revisit miniature golf in an unfinished app called **LiliPutz**. Like the previous **Light Cycles** I went with a 2.1-dimensional look. Which is to say, it's more or less a top-down game but I added just a bit of an orthographic shear to it to suggest a hint of 3-dimensionality.
 
-This early B&W attempt consisted of two separate apps: **MiniGolf Editor** for creating the courses and **MiniGolf Player** for, of course, playing them. Like the previous **Light Cycles** I went with a 2.1-dimensional look. Which is to say, it's more or less a top-down game but I added just a bit of an orthographic shear to it to suggest a hint of 3-dimensionality.
+This early B&W attempt consisted of two separate apps: **MiniGolf Editor** for creating the courses and **MiniGolf Player** for, of course, playing them.
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/9f1c1044f364344eccf0cb5acb9fc14c2356dd05/Images/MiniGoldEditor.png">
