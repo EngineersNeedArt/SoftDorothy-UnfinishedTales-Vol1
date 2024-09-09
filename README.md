@@ -156,6 +156,11 @@ Is there a diamond in the rough here? Why, no, not at all. Still, *Space Duel* i
 
 ### Light Cycles:
 
+One of the earliest games I had written was a "TRON" light cycle game on the Commodore VIC-20. Maybe I thought I would have a go with it on the Macintosh. In fact, games being as rare in general as they were on the Mac in those days, there wasn't a proper clone.
+
 <p align="center">
 <img width="427" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/10c1043574c957df91bc10183616c4aa27f05349/Images/LightCycleSprites.png">
 </p>
+
+**Light Cycles**, should you try to play it in its rough form, is un-throttled and so plays best in an emulator that you can run at 1990 speeds. I must have decided early on to bail on it however as much of the sprite artwork is unimplemented. That's kind of too bad because I would love to see the player "rez" in, see the *Recognizer* enter the game grid....
+
