@@ -153,3 +153,9 @@ I couldn't have failed any harder. **Dione** (the name came from Greek mythology
 Is there a diamond in the rough here? Why, no, not at all. Still, *Space Duel* is still, in my opinion, ripe for really kicking up a notch into the bullet-hell genre. Now *that* would be something.
 
 > **Dione** was a March, 1990 sketch.
+
+### Light Cycles:
+
+<p align="center">
+<img width="427" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/10c1043574c957df91bc10183616c4aa27f05349/Images/LightCycleSprites.png">
+</p>
