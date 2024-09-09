@@ -202,7 +202,11 @@ You can see the *Car Wars* inspiration on the right portion of the game where ar
 
 I was focusing a good deal at this early stage on getting the shifting (the cars were to be all manual) correct. You have to shift into 1st gear to get rolling, watch the RPM gauge, shift to 2nd when you start to red-line. I was trying to get the power curves to feel right so that putting the car in 4th at a stop would be lugging the engine — downshifting to 1st at highway speed would possibly blow the engine.
 
-As with a lot of these "sketches", you can look to some of the placeholder graphical elements or inoperable menu items to get an idea of where I hoped to eventually go with the game — the weapons and armor stats being the obvious tell in this game.
+<p align="center">
+<img width="418" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/cde2877bb5f97c39f477f9eb198ca0a21a6de847/Images/K-10_sprites.png">
+</p>
+
+As with a lot of these "sketches", you can look to some of the placeholder graphical elements or inoperable menu items to get an idea of where I hoped to eventually go with the game. The `PICT` resource too hints at a cop car, caltrops, mines and other various weapons that might eventually be employed in the game.
 
 I have a vague recollection that the physics involved started to overwhelm me. I was stuck trying to decide if you model the drivetrain physics from the asphalt to the tire (via frictional component) through the transmission and its gearing to the cylinders trying to turn a flywheel? Or do you go the reverse direction and start with the torque from the cylinders firing, work through the transmission, etc? It seemed like a problem where the math had to go both directions at the same time.
 
