@@ -244,4 +244,4 @@ I have enjoyed this little journey. I gather all the pieces together, fix the ty
 
 But I do in fact have another batch of game experiments and sketches that I will work to put together on another disk image. For better or worse, we will be moving into the realm of color in many of those games. Stay tuned.
 
-John Calhoun—
+**John Calhoun—**
