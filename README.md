@@ -228,7 +228,7 @@ I was curious if *War* was ever generally winnable: as one player started to win
 
 So, somewhat of a joke, I wrote **War**, making sure to have a computer vs. computer feature so that I coul djust kick it off and let it run.
 
-Sadly, **War** was a project where I lost the resources of the game as well as the THINK Pascal project file itself. I have been trying to see if I can, looking at the code alone, reconstruct the resources for the game. Perhaps not exactly as it was, but close enough to at least make it playable again.
+Sadly, **War** was a project where I lost the resources of the game as well as the THINK Pascal project file itself. Because the source files have no resource fork, they were the only files I was able to recover. I have been trying to see if I can, looking at the code alone, reconstruct the resources for the game. Perhaps not exactly as it was, but close enough to at least make it playable again.
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/bfa48a4e6e37897ac8a113ec5bbbd249422cf71d/Images/War.png">
