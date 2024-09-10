@@ -7,7 +7,7 @@ The first part of a collection of **Soft Dorothy Software** scraps and game expe
 
 ### Sleepless Nights
 
-Around 1988 when I was still in college I wrote my first shareware game on the Macintosh computer called **Glider**. For a number of years that followed I spent a good deal of my conscious hours (and perhaps unconscious hours as well) progamming little games for my amusement. I think the little Macintosh Plus with crisp black and white pixels, curious mouse interface, became a new kind of canvas for me. I don't think I was *naturally* a programmer, programming was a means to an end — an end I suppose that consisted of little games that I approached as a kind of little art.
+Around 1988 when I was still in college I wrote my first shareware game on the Macintosh computer called **Glider**. For a number of years that followed I spent a good deal of my conscious hours (and perhaps unconscious hours as well) programming little games for my amusement. I think the little Macintosh Plus with crisp black and white pixels, curious mouse interface, became a new kind of canvas for me. I don't think I was *naturally* a programmer, programming was a means to an end — an end I suppose that consisted of little games that I approached as a kind of little art.
 
 <p align="center">
 <img width="320" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/3c0c2c6514f32224374624b40ff1abba4480e3cb/Images/earlyprogrammer.jpeg">
@@ -100,7 +100,7 @@ Could it ultimately have been "Elite-levels" of fun? Who knows. I think though I
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/3b4e9592b1ba70d65cdc99b8beaba51c27db5611/Images/harmonigraph.png">
 </p>
 
-**Harmonigraph** was a little experiment of the educational toy variety like **Reaction** that I described earlier. A pendulum (or multiple) controls the X-axis while another pendulum(s) controls Y-axis. `Start` kicks off the calulating, rendering.
+**Harmonigraph** was a little experiment of the educational toy variety like **Reaction** that I described earlier. A pendulum (or multiple) controls the X-axis while another pendulum(s) controls Y-axis. `Start` kicks off the calculating, rendering.
 
 There was a tool called *Prototyper* that I picked up about this time and **Harmonigraph** was I believe the first application I created using it. *Prototyper* made it easy to create windows with controls, text and would then generate the C or Pascal code to give you a shell with which you could then go in and add the functionality.
 
@@ -114,7 +114,7 @@ This might be a fun one to rewrite for the web using Javascript, an HTML5 Canvas
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/c590a8600a94ddedf2ca357f3784beeab580d784/Images/fishtank.png">
 </p>
 
-Like a screen-saver, **FishTank** was only ever meant to be a virtual fish tank that you kind of watched. Desiging your own tank — stocking it with fish you select, arranging the various plants and decorations would have made it somewhat amusing. Tamagotchi-like I might have required you to periodically feed the fish lest they die...
+Like a screen-saver, **FishTank** was only ever meant to be a virtual fish tank that you kind of watched. Designing your own tank — stocking it with fish you select, arranging the various plants and decorations would have made it somewhat amusing. Tamagotchi-like I might have required you to periodically feed the fish lest they die...
 
 It was shelved long before any of those features saw the light of day. I think the payoff-vs-effort indicator was trending low in my mind for this one so on to the next idea.
 
@@ -126,7 +126,7 @@ It was shelved long before any of those features saw the light of day. I think t
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/1f7aa651cca6681534645b2c269908291a77d5d6/Images/mobocracy.png">
 </p>
 
-Side-scroller, post apolocalyptic ... **Mobocracy** was a very 90's game. Original file dates suggest February and March of 1990 were consumed with knocking this half-baked sketch out.
+Side-scroller, post apocalyptic ... **Mobocracy** was a very 90's game. Original file dates suggest February and March of 1990 were consumed with knocking this half-baked sketch out.
 
 If you wanted to kick the tires, you can only "play" it by selecting `Practice` from the `File` menu. Controls: try `A`, `D`, the space bar, the arrow keys. Artwork has our hero with her sword drawn, parrying, thrusting but if those modes are implemented in the code I didn't take the time to discover. There is additional artwork for a kind of "bounty wall", a weapons shop — none of which were ever implemented.
 
@@ -136,7 +136,7 @@ If you wanted to kick the tires, you can only "play" it by selecting `Practice` 
 
 The lower portion of the game hints at a weapon selection, map, an inventory of bullets, gold, etc. (The player's fatigue is expended by jumping, etc., replenishes quickly though.)
 
-This was clearly a game that, whether the payoff was high or not, was clearly going to be a huge effort. Although Prince of Persia (Metal Slug, etc.) would show it was possible, I think I also felt constrained by the almost 1-diminsional aspect of a side-scroller. Maybe I would have felt more confortable making it a 2-D *Rogue-like* instead. In any event, there were other fields still to sow.
+This was clearly a game that, whether the payoff was high or not, was clearly going to be a huge effort. Although Prince of Persia (Metal Slug, etc.) would show it was possible, I think I also felt constrained by the almost 1-dimensional aspect of a side-scroller. Maybe I would have felt more comfortable making it a 2-D *Rogue-like* instead. In any event, there were other fields still to sow.
 
 ### Dione:
 
@@ -144,7 +144,7 @@ This was clearly a game that, whether the payoff was high or not, was clearly go
 <img width="404" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/e374d48e51853ed81d4fd3df251d770e74a7e4e9/Images/Dione.png">
 </p>
 
-**Dione** was not one of those sown fields that would bear fruit. More or less started out as an *Asteroids*-like. Actually, if you really know your obscure 80's arcade games, it took more inspiration from *Space Duel* — a game where two players find their *Asteroids*-like spaceships tethered together creating all manner of fascinating dynamics when each craft can independently rotate, thrust. Watching the linked ships tumble across the screen like a baton in freefall was, I think, what I was initially going for.
+**Dione** was not one of those sown fields that would bear fruit. More or less started out as an *Asteroids*-like. Actually, if you really know your obscure 80's arcade games, it took more inspiration from *Space Duel* — a game where two players find their *Asteroids*-like spaceships tethered together creating all manner of fascinating dynamics when each craft can independently rotate, thrust. Watching the linked ships tumble across the screen like a baton in free-fall was, I think, what I was initially going for.
 
 I couldn't have failed any harder. **Dione** (the name came from Greek mythology) should have been called "Ball and Chain" as that is how the game play feels. If you really want to try it: left and right arrow keys, `Shift` and space bar.
 
@@ -180,9 +180,9 @@ I saw that they compiled and ran (added some throttling to **MiniGolf Player**) 
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/9f1c1044f364344eccf0cb5acb9fc14c2356dd05/Images/MiniGolfPlayer.png">
 </p>
 
-Oh, the collision detection is completely broken — balls don't often ricochet correctly off the walls, sometimes end up outside the course. You know, these little things are not terribly important when you're just protoyping a game. I mean these are solveable issues. But if for other reasons the game seems destined for the byte-heap, why bother?
+Oh, the collision detection is completely broken — balls don't often ricochet correctly off the walls, sometimes end up outside the course. You know, these little things are not terribly important when you're just prototyping a game. I mean these are solvable issues. But if for other reasons the game seems destined for the byte-heap, why bother?
 
-And so I bothered not for **MiniGolf**. As I mentioned, I would revist it later, in color. I am unclear as to why I did abandon this version and move on to experiment with new games. 
+And so I bothered not for **MiniGolf**. As I mentioned, I would revisit it later, in color. I am unclear as to why I did abandon this version and move on to experiment with new games. 
 
 > When I get to the color version I can explain why that one was offloaded though.
 
@@ -194,7 +194,7 @@ And so I bothered not for **MiniGolf**. As I mentioned, I would revist it later,
 
 I was in college at the University of Kansas when I began **K-10**. It was named for Kansas highway 10 — the more or less straight and flat stretch of asphalt between Lawrence, Kansas and Kansas City. For a driving game that wanted to keep things simple K-10 was a cheap excuse to present only a straight road.
 
-<a href="https://en.wikipedia.org/wiki/Spy_Hunter">*Spy Hunter*</a>, the old arcade game, was an abvious inspiration — it too being a top-down driving game where the cars have weapons. Perhaps a little more obscure, I was inspired too by the Steve Jackson Games pen-and-paper RPG <a href="https://en.wikipedia.org/wiki/Car_Wars">*Car Wars*</a>.
+<a href="https://en.wikipedia.org/wiki/Spy_Hunter">*Spy Hunter*</a>, the old arcade game, was an obvious inspiration — it too being a top-down driving game where the cars have weapons. Perhaps a little more obscure, I was inspired too by the Steve Jackson Games pen-and-paper RPG <a href="https://en.wikipedia.org/wiki/Car_Wars">*Car Wars*</a>.
 
 You can see the *Car Wars* inspiration on the right portion of the game where armor (front, rear, driver and passenger side) is indicated. Fore and aft weapons... Also, like "rolling up a character", the game was to rely heavily on your designing your car, fitting it with the various weapons and armor, engine upgrades — to the degree your car budget allowed.
 
@@ -224,7 +224,7 @@ When I was young my sister and I played *War* all the time. I don't recall any g
 
 I was curious if *War* was ever generally winnable: as one player started to win most of the battles they were in fact adding more lower ranking cards to their hand. The tide seem to then flow and the opposing player seemed to start pulling back the majority of the cards. How long would this seeming cycle repeat itself.
 
-So, somewhat of a joke, I wrote **War**, making sure to have a computer vs. computer feature so that I coul djust kick it off and let it run.
+So, somewhat of a joke, I wrote **War**, making sure to have a computer vs. computer feature so that I could just kick it off and let it run.
 
 Sadly, **War** was a project where I lost the resources of the game as well as the THINK Pascal project file itself. Because the source files have no resource fork, they were the only files I was able to recover. I have been trying to see if I can, looking at the code alone, reconstruct the resources for the game. Perhaps not exactly as it was, but close enough to at least make it playable again.
 
