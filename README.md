@@ -43,14 +43,12 @@ sd13 = MiniGolf Edit   incomplete
 sd14 = MiniGolf Cr     incomplete <buggy>
 sd15 = K-10            incomplete <sound prob.>
 sd16 = War             not distributed
-sd17 = Sled Run        incomplete <slow, no fun>
-sd18 = Stella Obscura  v.1.0                        +++
 :
 ```
 
 It begins of course with `sd01` for **Glider**. If you had a Macintosh back in the 1990's you might recognize `sd09`, **Glypha**. The bundle identifiers listed in between though belonged to programs that never left my hard drive.
 
-To the degree I am able to, this repo represents those "lost" experiments. We'll skip **Glider**, **Glypha** and **Stella Obscura** from the list — since they shipped they're already in a repo called <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">**SoftDorothy-SharewareProjects**</a>.
+To the degree I am able to, this repo represents those "lost" experiments. We'll skip **Glider** and **Glypha** from the list — since they shipped they're already in a repo called <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">**SoftDorothy-SharewareProjects**</a>.
 
 ### La Luna, Reaction, BlackBox:
 
