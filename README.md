@@ -217,3 +217,18 @@ cars-destroying-other-cars itch but I still think there is room for a top-down "
 If you decide to try the game out, I have been successful 1) `Car` —> `Open Car...` and select a car from the Cars folder then 2) select `File` —> `Test Run`. The keys `1`, `2`, `3`, and `4` shift gears (you need to shift to 1st gear right away), the mouse button is the accelerator, moving the mouse left and right is how you steer.
 
 You will probably see an enemy car or two — and they will fire upon you. If I had implemented player weapons I was unable to discover how to fire them. Also, collision detection is very basic.
+
+### War
+
+In this case, **War** is the card game — I wrote a Mac version of *War*.
+
+When I was young my sister and I played *War* all the time. I don't recall any game actually ending though — they seemed to go on endlessly (was that subtle commentary by whoever created the game?).
+
+I was curious if *War* was ever generally winnable: as one player started to win most of the battles they were in fact adding more lower ranking cards to their hand. The tide seem to then flow and the opposing player seemed to start pulling back the majority of the cards. How long would this seeming cycle repeat itself.
+
+So, somewhat of a joke, I write **War**, making sure to have a computer vs. computer feature so that I coul djust kick it off and let it run.
+
+Sadly, **War** was a project where I lost the resources of the game as well as the THINK Pascal project file itself. I have been trying to see if I can, looking at the code alone, reconstruct the resources for the game. Perhaps not exactly as it was, but close enough to at least make it playable again.
+
+At this time I have only partially reconstructed the artwork for the game, stubbed in menus. It is barely functional. I hope to get it fully functional soon and I will update both the disk image and this document when I do.
+
