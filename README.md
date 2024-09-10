@@ -234,3 +234,14 @@ Sadly, **War** was a project where I lost the resources of the game as well as t
 
 At this time I have only partially reconstructed the artwork for the game, stubbed in menus. It is barely functional. I hope to get it fully functional soon and I will update both the disk image and this document when I do.
 
+### More to Come
+
+But wait...! Yeah, there's more to come.
+
+I have enjoyed this little journey. I gather all the pieces together, fix the type/creator codes for the various files, try to open the projects, clear objects, recompile, re-build the applications. Some apps need throttling to make them half-way playable on an emulator. In one app I found and fixed a 35 year old bug that had been corrupting the application space. I look for and gather artwork files I used for the games.... A few games, like **War** required a good deal more work in reconstructing the project and resource files.
+
+> I am surprised though how often I crash the Mac system running within the emulator. Did they really crash this often?
+
+But I do in fact have another batch of game experiments and sketches that I will work to put together on another disk image. For better or worse, we will be moving into the realm of color in many of those games. Stay tuned.
+
+John Calhoun—
