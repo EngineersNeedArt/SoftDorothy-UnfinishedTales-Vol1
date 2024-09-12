@@ -233,10 +233,10 @@ So, somewhat of a joke, I wrote **War**, making sure to have a computer vs. comp
 Sadly, **War** was a project where I lost the resources of the game as well as the THINK Pascal project file itself. Because the source files have no resource fork, they were the only files I was able to recover. I have been trying to see if I can, looking at the code alone, reconstruct the resources for the game. Perhaps not exactly as it was, but close enough to at least make it playable again.
 
 <p align="center">
-<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/bfa48a4e6e37897ac8a113ec5bbbd249422cf71d/Images/War.png">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/88d4eddf0067ee560572972c85ae47da6c2dca9a/Images/War.png">
 </p>
 
-At this time I have only partially reconstructed the artwork for the game, stubbed in menus. It is barely functional. I hope to get it fully functional soon and I will update both the disk image and this document when I do.
+At this time I have only partially reconstructed the artwork for the game, stubbed in menus, added some sounds. It is *mostly* functional. I hope to get it fully functional soon and I will update both the disk image and this document when I do.
 
 ### More to Come
 
