@@ -2,7 +2,7 @@
 The first part of a collection of **Soft Dorothy Software** scraps and game experiments from the late 80's and early 90's.
 
 <p align="center">
-<img width="760" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/ce1f528b2f0bcff3a712372ac9e4af10007cb4a7/Images/Ridaava-walk.png">
+<img width="760" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/9f0664fdd0346166f10ef5d35159388e33aeb484/Images/Ridaava-walk.png">
 </p>
 
 ### Sleepless Nights
