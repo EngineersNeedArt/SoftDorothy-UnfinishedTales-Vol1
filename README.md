@@ -246,6 +246,6 @@ I have enjoyed this little journey. I gather all the pieces together, fix the ty
 
 > I am surprised though how often I crash the Mac system running within the emulator. Did they really crash this often?
 
-But I do in fact have another batch of game experiments and sketches that I will work to put together on another disk image. For better or worse, we will be moving into the realm of color in many of those games. Stay tuned.
+Here is volume 2, <a href="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2">Soft Dorothy Software: Unfinished Tales (Vol 2)</a>.
 
 **John Calhoun—**
