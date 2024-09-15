@@ -220,7 +220,7 @@ If you decide to try the game out, I have been successful 1) `Car` —> `Open Ca
 
 You will probably see an enemy car or two — and they will fire upon you. If I had implemented player weapons I was unable to discover how to fire them. Also, collision detection is very basic.
 
-### War
+### War:
 
 In this case, **War** is the card game — I wrote a Mac version of *War*.
 
