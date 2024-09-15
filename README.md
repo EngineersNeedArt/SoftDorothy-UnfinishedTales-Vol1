@@ -193,7 +193,7 @@ And so I bothered not for **MiniGolf**. As I mentioned, I would revisit it later
 ### K-10:
 
 <p align="center">
-<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/25ac5a339811b08cc9ca9e6b34e4c4ff98a6b316/Images/K-10.png">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/5fd4b775cb7085e779749d59b78174f4d7eed3bf/Images/K-10.png">
 </p>
 
 I was in college at the University of Kansas when I began **K-10**. It was named for Kansas highway 10 — the more or less straight and flat stretch of asphalt between Lawrence, Kansas and Kansas City. For a driving game that wanted to keep things simple K-10 was a cheap excuse to present only a straight road.
