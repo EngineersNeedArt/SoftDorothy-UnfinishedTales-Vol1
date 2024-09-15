@@ -131,7 +131,7 @@ Side-scroller, post apocalyptic ... **Mobocracy** was a very 90's game. Original
 If you wanted to kick the tires, you can only "play" it by selecting `Practice` from the `File` menu. Controls: try `A`, `D`, the space bar, the arrow keys. Artwork has our hero with her sword drawn, parrying, thrusting but if those modes are implemented in the code I didn't take the time to discover. There is additional artwork for a kind of "bounty wall", a weapons shop — none of which were ever implemented.
 
 <p align="center">
-<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/1729ccaaa9f2052e13f27abb42abd1c464bef695/Images/ridaava_with_sword.png">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/577c19c13a6299f310ca54151d859654b8672b1d/Images/ridaava_with_sword.png">
 </p>
 
 The lower portion of the game hints at a weapon selection, map, an inventory of bullets, gold, etc. (The player's fatigue is expended by jumping, etc., replenishes quickly though.)
