@@ -205,7 +205,7 @@ You can see the *Car Wars* inspiration on the right portion of the game where ar
 I was focusing a good deal at this early stage on getting the shifting (the cars were to be all manual) correct. You have to shift into 1st gear to get rolling, watch the RPM gauge, shift to 2nd when you start to red-line. I was trying to get the power curves to feel right so that putting the car in 4th at a stop would be lugging the engine — downshifting to 1st at highway speed would possibly blow the engine.
 
 <p align="center">
-<img width="418" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/cde2877bb5f97c39f477f9eb198ca0a21a6de847/Images/K-10_sprites.png">
+<img width="411" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/5d092fb1541de38ee3442b07b1dc89edbd7aa498/Images/K-10_sprites.png">
 </p>
 
 As with a lot of these "sketches", you can look to some of the placeholder graphical elements or inoperable menu items to get an idea of where I hoped to eventually go with the game. The `PICT` resource too hints at a cop car, caltrops, mines and other various weapons that might eventually be employed in the game.
