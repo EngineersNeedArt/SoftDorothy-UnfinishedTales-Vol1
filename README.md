@@ -236,8 +236,6 @@ I had thought the resource file for this game was lost, but I just found a hard 
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1/blob/31ccc5ab2e3fb56af391f4157d1ae13f092de1e3/Images/War.png">
 </p>
 
-At this time I have only partially reconstructed the artwork for the game, stubbed in menus, added some sounds. It is *mostly* functional. I hope to get it fully functional soon and I will update both the disk image and this document when I do.
-
 ### Game Shell:
 
 I've included also a small project called **Game Shell**. It is a sort of barebones game project in Pascal with menu set-up, window set-up, some sound routines, graphic functions, etc. It is not a game but is intended to be a starting point when *creating* a new game. To create a game you are expected to begin by making a copy of the folder and rename the project. After that you go into the project and begin to add your own artwork, game logic etc.
