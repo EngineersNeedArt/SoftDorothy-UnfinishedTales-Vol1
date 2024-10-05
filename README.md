@@ -242,6 +242,8 @@ At this time I have only partially reconstructed the artwork for the game, stubb
 
 I've included also a small project called **Game Shell**. It is a sort of barebones game project in Pascal with menu set-up, window set-up, some sound routines, graphic functions, etc. It is not a game but is intended to be a starting point when *creating* a new game. To create a game you are expected to begin by making a copy of the folder and rename the project. After that you go into the project and begin to add your own artwork, game logic etc.
 
+It represents the same code I used over and over again in my games. In this way I was able to pretty quickly try out a new game "sketch".
+
 ### More to Come
 
 But wait...! Yeah, there's more to come.
